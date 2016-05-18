@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "HTML Animations in Elm 0.16.  Use elm-style-animation for updated versions.",
-    "repository": "https://github.com/mdgriffith/elm-style-animation-0.16.git",
+    "repository": "https://github.com/mdgriffith/elm-style-animation-zero-sixteen.git",
     "license": "BSD3",
     "source-directories": [
         "src"
