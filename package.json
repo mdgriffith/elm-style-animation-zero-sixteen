@@ -1,0 +1,7 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "dependencies": {
+    "elm": "0.16.0"
+  }
+}
